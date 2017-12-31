@@ -1,5 +1,5 @@
 {
-    "name": "oro/platform-serialised-fields",
+    "name": "oplatform-club/platform-serialised-fields",
     "description": "Oro Platform Serialized Fields",
     "homepage": "https://github.com/oroinc/OroEntitySerializedFieldsBundle",
     "license": "OSL-3.0",
@@ -16,7 +16,7 @@
     },
     "require": {
         "php": ">=7.0",
-        "oro/platform": "2.x-dev"
+        "oplatform-club/platform": ">=2.5.1",
     },
     "repositories": {
         "oro": {
