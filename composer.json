@@ -16,7 +16,7 @@
     },
     "require": {
         "php": ">=7.0",
-        "oplatform-club/platform": ">=2.5.1",
+        "oplatform-club/platform": ">=2.5.1"
     },
     "repositories": {
         "oro": {
